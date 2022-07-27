@@ -2,7 +2,7 @@
 
 Nesse teste você deverá criar uma aplicação com frontend em React e backend em Nodejs+Express.
 
-A aplicação deverá conter um CRUD com um formulário multi step. 
+A aplicação deverá conter um CRUD e nele os formulários de Create e Update deverão ser multi step. 
 
 Você pode definir o que será cadastrado, use a criatividade!
 
