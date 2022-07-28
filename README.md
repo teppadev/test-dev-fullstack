@@ -20,4 +20,4 @@ Diferências (Não obrigatórios):
 - Validação de campos no front e back
 - Registro e Login
 
-Ao finalizar o teste envie um e-mail para contato@teppadev.com.br com o assunto SEUNOME-TesteDevFullStack
+Ao finalizar o teste envie um e-mail com o link do github da sua resolução e a URL do front (caso realizado o deploy) para contato@teppadev.com.br com o assunto SEUNOME-TesteDevFullStack
