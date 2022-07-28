@@ -9,7 +9,7 @@ A aplicação deverá conter um CRUD e nele os formulários de Create e Update d
 Você pode definir o que será cadastrado, use a criatividade!
 
 Requisitos:
-- Typescript
+- Front e back devem ser escritos em Typescript
 - Frontend em React (16.8+)
 - Backend em NodeJs+Express
 - Firestore
