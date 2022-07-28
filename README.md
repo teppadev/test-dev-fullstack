@@ -2,14 +2,16 @@
 
 Nesse teste você deverá criar uma aplicação com frontend em React e backend em Nodejs+Express.
 
+A ideia é simular o funcionamento de um CRUD em uma aplicação real com front e backend.
+
 A aplicação deverá conter um CRUD e nele os formulários de Create e Update deverão ser multi step. 
 
 Você pode definir o que será cadastrado, use a criatividade!
 
 Requisitos:
 - Typescript
-- React (16.8+)
-- NodeJs+Express
+- Frontend em React (16.8+)
+- Backend em NodeJs+Express
 - Firestore
 
 Diferências (Não obrigatórios):
