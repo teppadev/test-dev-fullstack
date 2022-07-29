@@ -12,7 +12,7 @@ Requisitos:
 - Front e back devem ser escritos em Typescript
 - Frontend em React (16.8+)
 - Backend em NodeJs+Express
-- Firestore
+- Firestore como banco de dados
 
 Diferências (Não obrigatórios):
 - Publicar o front no Firebase Hosting e o back no Cloud Run do GCP ou Heroku
