@@ -21,3 +21,7 @@ Diferências (Não obrigatórios):
 - Registro e Login
 
 Ao finalizar o teste envie um e-mail com o link do github da sua resolução e a URL do front (caso realizado o deploy) para contato@teppadev.com.br com o assunto SEUNOME-TesteDevFullStack
+
+Entendemos que cada candidato tem uma realidade e por isso **não definimos uma data limite de entrega**, o teste ficará aberto até o preenchimento da vaga.
+
+🚀🚀
