@@ -14,7 +14,7 @@ Requisitos:
 - Backend em NodeJs+Express
 - Firestore como banco de dados
 
-Diferências (Não obrigatórios):
+Diferenciais (Não obrigatórios):
 - Publicar o front no Firebase Hosting e o back no Cloud Run do GCP ou Heroku
 - Rules do Firestore
 - Validação de campos no front e back
