@@ -1,27 +1,39 @@
 # Teppa - Teste para Devs Fullstack
 
-Nesse teste você deverá criar uma aplicação com frontend em React e backend em Nodejs+Express.
+Neste teste, você será desafiado a criar uma aplicação com frontend em React ou Next.js e backend em Node.js.
 
-A ideia é simular o funcionamento de um CRUD em uma aplicação real com front e backend.
+O objetivo é simular o funcionamento de um CRUD em uma aplicação real, com front e backend integrados.
 
-A aplicação deverá conter um CRUD e nele os formulários de Create e Update deverão ser multi step. 
+A aplicação deverá conter um CRUD, onde os formulários de criação e atualização serão divididos em vários passos.
 
-Você pode definir o que será cadastrado, use a criatividade!
+Você tem a liberdade de definir o que será cadastrado, use sua criatividade!
 
-Requisitos:
-- Front e back devem ser escritos em Typescript
-- Frontend em React (16.8+)
-- Backend em NodeJs+Express
-- Firestore como banco de dados
+## Requisitos:
 
-Diferenciais (Não obrigatórios):
-- Publicar o front no Firebase Hosting e o back no Cloud Run do GCP ou Heroku
-- Rules do Firestore
-- Validação de campos no front e back
-- Registro e Login
+- O frontend e o backend devem ser escritos em Typescript.
+- O frontend deve ser desenvolvido em React ou Next.js.
+- O backend deve ser desenvolvido em Node.js utilizando qualquer framework (por aqui nós usamos Express e Nest).
+- Utilize qualquer banco de dados de sua preferência, no entanto, recomendamos o MongoDB, PlanetScale ou Firestore por terem um free tier e serem fáceis de desenvolver e caso você queira realizar o deploy do teste.
 
-Ao finalizar o teste envie um e-mail com o link do github da sua resolução e a URL do front (caso realizado o deploy) para contato@teppadev.com.br com o assunto SEUNOME-TesteDevFullStack
+## Diferenciais (Não obrigatórios):
 
-Entendemos que cada candidato tem uma realidade e por isso **não definimos uma data limite de entrega**, o teste ficará aberto até o preenchimento da vaga.
+- Realizar o deploy do projeto em sua cloud preferida (Vercel, GCP, AWS, Heroku...)
+- Realizar validação de campos no frontend e no backend.
+- Implementar sistema de registro e login.
+- Implementar perfil de usuário com foto
 
-🚀🚀
+## Nós gostamos bastante desses pacotes:
+- https://www.npmjs.com/package/@tanstack/react-query
+- https://www.npmjs.com/package/react-hook-form
+- https://www.npmjs.com/package/zod
+- https://www.npmjs.com/package/@chakra-ui/react
+- https://ui.shadcn.com/docs
+- https://www.npmjs.com/package/mongoose
+
+Ao finalizar o teste, envie um e-mail para recrutamento@teppadev.com.br com o link do GitHub da sua resolução e a URL do frontend (caso tenha realizado o deploy), utilizando o assunto SEUNOME-TesteDevFullStack.
+
+Entendemos que cada candidato tem uma realidade diferente, por isso **não definimos uma data limite de entrega**. 
+
+O teste ficará aberto até que a vaga seja preenchida.
+
+Boa sorte! 🚀🚀
